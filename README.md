@@ -1,4 +1,11 @@
-### Hi there 👋
+<object><img alt="header" src="https://github.com/zebelity/zebelity/assets/112873206/a442bb78-46a4-4f58-9f3a-40f2d01ea089"><object>
+
+## About Me
+I am a junior software engineer that loves to create fun and engaging experiences with code.
+With a background in medicine I bring high levels of empathy to any role, with an ability to approach problems holistically and to understand what people really need.
+
+![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&link=www.linkedin.com%2Fin%2Fchatkamon-chantaraparsop)
+
 
 <!--
 **zebelity/zebelity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
