@@ -4,7 +4,7 @@
 I am a junior software engineer that loves to create fun and engaging experiences with code.
 With a background in medicine I bring high levels of empathy to any role, with an ability to approach problems holistically and to understand what people really need.
 
-[![Static Badge](https://img.shields.io/badge/VISIT_MY_LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chatkamon-chantaraparsop) <img alt="Static Badge" src="https://img.shields.io/badge/CHECK_OUT_MY_PORTFOLIO-%23FF6550?style=for-the-badge">
+[![Static Badge](https://img.shields.io/badge/VISIT_MY_LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chatkamon-chantaraparsop) [![Static Badge](https://img.shields.io/badge/CHECK_OUT_MY_PORTFOLIO-%23FF6550?style=for-the-badge)](https://zebelity.github.io/)
 
 ## Language and Tools 🛠️
 
